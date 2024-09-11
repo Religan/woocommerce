@@ -30,7 +30,7 @@
 	"dependencies": {
 		"@types/lodash": "^4.14.179",
 		"@types/prop-types": "^15.7.4",
-		"@types/wordpress__blocks": "^11.0.7",
+		"@types/wordpress__blocks": "^12.5.14",
 		"@woocommerce/admin-layout": "workspace:*",
 		"@woocommerce/block-templates": "workspace:*",
 		"@woocommerce/components": "workspace:*",
@@ -82,7 +82,7 @@
 		"@types/testing-library__jest-dom": "^5.14.3",
 		"@types/wordpress__block-editor": "^7.0.0",
 		"@types/wordpress__block-library": "^2.6.1",
-		"@types/wordpress__blocks": "^11.0.7",
+		"@types/wordpress__blocks": "^12.5.14",
 		"@types/wordpress__components": "^19.10.3",
 		"@types/wordpress__core-data": "^2.4.5",
 		"@types/wordpress__data": "^6.0.2",
