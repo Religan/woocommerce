@@ -37,9 +37,9 @@
 		"@wordpress/icons": "^8.1.0",
 		"@wordpress/keycodes": "^3.3.1",
 		"classnames": "^2.3.1",
-		"dompurify": "^2.3.6",
+		"dompurify": "^2.5.4",
 		"gridicons": "^3.4.0",
-		"moment": "^2.29.1",
+		"moment": "^2.29.4",
 		"react-transition-group": "^4.4.2",
 		"react-visibility-sensor": "^5.1.1"
 	},
