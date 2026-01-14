@@ -35,7 +35,7 @@
 		"@wordpress/api-fetch": "wp-6.0",
 		"@wordpress/hooks": "wp-6.0",
 		"cookie": "^0.4.2",
-		"qs": "^6.10.3"
+		"qs": "^6.14.1"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.17.5",
