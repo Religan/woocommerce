@@ -28,7 +28,7 @@
 	"dependencies": {
 		"@types/node": "^16.18.18",
 		"browser-filesaver": "^1.1.1",
-		"moment": "^2.29.1"
+		"moment": "^2.29.4"
 	},
 	"publishConfig": {
 		"access": "public"
