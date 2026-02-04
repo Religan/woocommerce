@@ -68,7 +68,7 @@
 		"@babel/core": "7.12.9",
 		"@wordpress/babel-plugin-import-jsx-pragma": "^3.2.0",
 		"@wordpress/babel-preset-default": "^6.17.0",
-		"lodash": "^4.17.21",
+		"lodash": "^4.17.23",
 		"wp-textdomain": "1.0.1"
 	},
 	"pnpm": {
