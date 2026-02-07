@@ -25,7 +25,7 @@
 	"types": "build-types",
 	"react-native": "src/index",
 	"dependencies": {
-		"locutus": "^2.0.16"
+		"locutus": "^2.0.39"
 	},
 	"publishConfig": {
 		"access": "public"
