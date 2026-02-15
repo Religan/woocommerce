@@ -32,7 +32,7 @@
 		"jest-allure": "^0.1.3",
 		"jest-runner-groups": "^2.1.0",
 		"postman-collection": "^4.1.0",
-		"supertest": "^6.1.4"
+		"supertest": "^7.1.3"
 	},
 	"devDependencies": {
 		"@woocommerce/eslint-plugin": "workspace:*",
